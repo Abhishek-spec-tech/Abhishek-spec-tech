@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **Androide,MEARN**
+- 💬 Ask me about **Android,MERN**
 
 - 📫 How to reach me **Kabhishek40680@gmail.com**
 
