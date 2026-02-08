@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🌱 I’m currently learning cpp<br>💬 Ask me about DSA ,CPP and Java script <br>
+<br>🌱 I’m currently learning cpp<br>💬 Ask me about DSA ,CPP and JAVA <br>
 
 
 ## 🌐 Socials:
